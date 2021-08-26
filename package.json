@@ -1,0 +1,27 @@
+{
+  "name": "fabelio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "author": "Adi Pra",
+  "license": "ISC",
+  "dependencies": {
+    "-": "0.0.1",
+    "axios": "^0.21.1",
+    "body-parser": "^1.19.0",
+    "cheerio": "^1.0.0-rc.10",
+    "dotenv": "^10.0.0",
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "jsdom": "^17.0.0",
+    "mongoose": "^5.13.8",
+    "multer": "^1.4.3",
+    "nodemon": "^2.0.12",
+    "path": "^0.12.7",
+    "save": "^2.4.0"
+  }
+}
